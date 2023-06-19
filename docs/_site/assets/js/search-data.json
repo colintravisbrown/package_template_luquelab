@@ -1,0 +1,121 @@
+{"0": {
+    "doc": "Performance",
+    "title": "Performance",
+    "content": " ",
+    "url": "/pyProject/performance/README.html",
+    
+    "relUrl": "/performance/README.html"
+  },"1": {
+    "doc": "Gallery",
+    "title": "Results Gallery",
+    "content": " ",
+    "url": "/pyProject/gallery/#results-gallery",
+    
+    "relUrl": "/gallery/#results-gallery"
+  },"2": {
+    "doc": "Gallery",
+    "title": "Gallery",
+    "content": " ",
+    "url": "/pyProject/gallery/",
+    
+    "relUrl": "/gallery/"
+  },"3": {
+    "doc": "Installation",
+    "title": "Requirements",
+    "content": "Requires python 3 . ",
+    "url": "/pyProject/installation/#requirements",
+    
+    "relUrl": "/installation/#requirements"
+  },"4": {
+    "doc": "Installation",
+    "title": "Installation",
+    "content": "Via pip: . pip install pyProject . Via conda: . First, create a new virtual environment using conda and then activate it. conda create -n pyProject python=3 -y conda activate pyProject . conda install -c luque_lab -c conda-forge pyproject . ",
+    "url": "/pyProject/installation/",
+    
+    "relUrl": "/installation/"
+  },"5": {
+    "doc": "Installation",
+    "title": "Running in jupyter lab",
+    "content": "To install the necessary packages for visualizing the results in a jupyter notebook, Via pip: . pip install jupyterlab . Via conda: . conda install -c conda-forge . ",
+    "url": "/pyProject/installation/#running-in-jupyter-lab",
+    
+    "relUrl": "/installation/#running-in-jupyter-lab"
+  },"6": {
+    "doc": "API Reference",
+    "title": "API Reference",
+    "content": " ",
+    "url": "/pyProject/api_reference/",
+    
+    "relUrl": "/api_reference/"
+  },"7": {
+    "doc": "Tutorial",
+    "title": "Interactive Usage",
+    "content": "The simplest way to follow this tutorial is using this colab notebook. This tutorial also comes in the form of a jupyter notebook for those who wish to run it locally. The example notebook is also provided for local use in the notebooks folder. Once the package and other dependencies are installed, download the notebook and run the following command in its directory to launch jupyter notebook. jupyter notebook . ",
+    "url": "/pyProject/tutorial/#interactive-usage",
+    
+    "relUrl": "/tutorial/#interactive-usage"
+  },"8": {
+    "doc": "Tutorial",
+    "title": "Header",
+    "content": "import pyProject . ",
+    "url": "/pyProject/tutorial/#header",
+    
+    "relUrl": "/tutorial/#header"
+  },"9": {
+    "doc": "Tutorial",
+    "title": "Tutorial",
+    "content": ". | Interactive Usage . | Header | . | . ",
+    "url": "/pyProject/tutorial/",
+    
+    "relUrl": "/tutorial/"
+  },"10": {
+    "doc": "Home",
+    "title": "pyProject Documentation",
+    "content": " ",
+    "url": "/pyProject/#pyproject-documentation",
+    
+    "relUrl": "/#pyproject-documentation"
+  },"11": {
+    "doc": "Home",
+    "title": "Project History",
+    "content": "This is an evolving repository Started: 2022-10-24 . ",
+    "url": "/pyProject/#project-history",
+    
+    "relUrl": "/#project-history"
+  },"12": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/pyProject/",
+    
+    "relUrl": "/"
+  },"13": {
+    "doc": "Acknowledgements",
+    "title": "Acknowledgements",
+    "content": " ",
+    "url": "/pyProject/acknowledgements/",
+    
+    "relUrl": "/acknowledgements/"
+  },"14": {
+    "doc": "Acknowledgements",
+    "title": "Citation",
+    "content": "pyProject operates under MIT license. If you publish or disseminate a project using pyProject, please cite the following references to support the package: . | . ",
+    "url": "/pyProject/acknowledgements/#citation",
+    
+    "relUrl": "/acknowledgements/#citation"
+  },"15": {
+    "doc": "Acknowledgements",
+    "title": "Funding",
+    "content": "The research and development of pyProject have been supported by the following funds: . | The National Science Foundation Award #1951678. | The Gordon and Betty Moore Foundation Award #GBMF9871, | The National Science Foundation Office of Advanced Cyberinfrastructure grant 1659169, supporting the HPC used at San Diego State University. | . ",
+    "url": "/pyProject/acknowledgements/#funding",
+    
+    "relUrl": "/acknowledgements/#funding"
+  },"16": {
+    "doc": "Acknowledgements",
+    "title": "Special mention",
+    "content": "The pyProject team would like to thank the insights from the San Diego State University Biomath Group … . ",
+    "url": "/pyProject/acknowledgements/#special-mention",
+    
+    "relUrl": "/acknowledgements/#special-mention"
+  }
+}
